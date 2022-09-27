@@ -13,13 +13,13 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       },
       "color": {
-        "value": "#00FFFF"
+        "value": "#0000FF"
       },
       "shape": {
         "type": "circle",
         "stroke": {
           "width": 0,
-          "color": "#000000"
+          "color": "#0000FF"
         },
         "polygon": {
           "nb_sides": 5
