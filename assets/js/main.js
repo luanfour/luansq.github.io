@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded",function(){new SweetScroll({});part
       }
     },
     "color": {
-      "value": "#5c98b9"
+      "value": "#15d9ac"
     },
     "shape": {
       "type": "circle",
@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded",function(){new SweetScroll({});part
       }
     },
     "size": {
-      "value": 4,
+      "value": 5,
       "random": true,
       "anim": {
         "enable": false,
@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded",function(){new SweetScroll({});part
     "events": {
       "onhover": {
         "enable": true,
-        "mode": "grab"
+        "mode": "bubble"
       },
       "onclick": {
         "enable": true,
@@ -88,7 +88,7 @@ document.addEventListener("DOMContentLoaded",function(){new SweetScroll({});part
       },
       "bubble": {
         "distance": 400,
-        "size": 40,
+        "size": 8,
         "duration": 2,
         "opacity": 8,
         "speed": 3
