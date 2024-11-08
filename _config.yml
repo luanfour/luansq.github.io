@@ -1,17 +1,17 @@
 # Site settings
 title: Luan S. Quaresma
-description: Luan Quaresma
+description: Luan S. Quaresma
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Luan S. Quaresma
-user_description: Olá! Sou Luan S. Quaresma, formado em Ciência da Computação pela Faculdade Estácio - CEUT. Tenho uma paixão profunda por tecnologia e por encontrar maneiras de melhorar tanto a rotina pessoal quanto profissional. Estou utilizando este currículo online para compartilhar minha experiência e conhecimento. Iniciei minha carreira como Auxiliar de Estoque e, devido ao meu desempenho, fui promovido a Auxiliar de Suporte Técnico PL. Tenho experiência em automação e sou proficiente em Python, habilidades que utilizo para desenvolver soluções eficientes e inovadoras. Atualmente, estou expandindo meus conhecimentos nas áreas de infraestrutura, monitoramento, suporte e segurança, sempre buscando novas oportunidades para crescer e contribuir ainda mais com meu trabalho.
+user_description: Olá! Sou Luan S. Quaresma, formado em Ciência da Computação pela Faculdade Estácio - CEUT. Como um profissional de tecnologia multifacetado, trago uma paixão por otimizar e fortalecer ambientes tecnológicos. Minha experiência abrange desde a configuração avançada de ferramentas de monitoramento como Zabbix e Grafana até a gestão de sistemas Linux altamente eficientes. Além disso, sou especializado em fornecer suporte técnico excepcional, resolvendo desafios complexos e garantindo a satisfação do cliente. Minha abordagem se estende à segurança da informação, onde aplico as melhores práticas para proteger dados sensíveis e manter a integridade dos sistemas. Através da automação de tarefas com scripts, melhoro a eficiência operacional, liberando tempo para focar em atividades estratégicas.
 user_title: Computer Scientist
 email: luansoares2010@gmail.com
 # twitter_username: lorem_ipsum
-# instagram_username: 
-# facebook_username: 
+instagram_username: luanfour
+# facebook_username: luanfour 
 linkedin_username: luanfour
 github_username:  luanfour
 # medium_username: lorem_ipsum
